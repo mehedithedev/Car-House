@@ -241,7 +241,73 @@ hr{
 
 .Car_Showroom{
     margin-top: 200px;
+    
 }
 .showroom_Heading{
     text-align: center;
+    margin-bottom: 20px;
+}
+.Car_Showroom img{
+    width: 100px;
+    padding: 10px;
+
+}
+.shoroom_button button{
+    width: 268px;
+height: 60px;
+left: 826px;
+top: 2601px;
+
+/* Main Red */
+
+background: #D82930;
+border-radius: 5px;
+}
+.car-features{
+    font-size: 12px;
+    padding-bottom: 20px;
+}
+.car-features img{
+    width: 30%;
+}
+.car-features .col-md-4{
+    padding-bottom: 15px;
+}
+.red-text{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 22px;
+    
+    color: #D82930;
+}
+
+
+
+
+
+.power-Converter{
+    /* text-align: center; */
+    margin-top: 100px;
+}
+
+.power-Converter .container{
+    /* position: absolute; */
+    width: 100%;
+    width: 1320px;
+    height: 583px;
+    left: 300px;
+    top: 3409px;
+
+    background: #0E0E0E;
+    border-radius: 15px;
+}
+.power-Converter h1{
+    padding: 40px 0 20px 40px;
+    text-align:left;
+    font-size: 45px;
+}
+.calculator h1{
+    padding-top: 0;
 }
