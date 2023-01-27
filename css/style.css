@@ -388,3 +388,91 @@ border-radius: 5px;
     margin: auto;
     /* vertical-align: middle; */
 }
+.carPriceHeader{
+    margin-top: 10rem;
+}
+.carPriceLink{
+    margin-top: 3rem;
+}
+.right_align{
+    text-align: right;
+}
+/* .news_event_date{
+    font-size: 13px;
+} */
+
+/* .news_event_date p{
+    display: flex;
+} */
+.card{
+    border-radius: 20px;
+}
+.news_button{
+    text-align:center;
+}
+.collapse_button{
+    text-align: center;
+}
+
+.newsBack{
+    position: absolute;
+width: 1320px;
+height: 350px;
+/* left: 300px; */
+top: 4783px;
+
+background: #FFFFFF;
+box-shadow: 0px 4px 75px rgba(14, 14, 14, 0.12);
+border-radius: 15px;
+}
+.marcendez_car{
+    width: 501.8px;
+    height: 270px;
+}
+.newsletter_signUp{
+    text-align: center;
+}
+.newsletter_signUp button{
+    margin-left: 30px;
+}
+.newsletter_signUp h1{
+    margin-top: 9rem;
+}
+.newsletter_signUp input{
+    padding: 10px 70px 10px 20px;
+    width: 330px;
+height: 50px;
+left: 360px;
+top: 4918px;
+
+background: #FEFEFE;
+opacity: 0.6;
+/* Main gray */
+
+border: 1px solid #5D5D5F;
+border-radius: 5px;
+}
+.newsletter_signUp .input_email{
+    margin-top: 30px;
+}
+.input_email button{
+    width: 150px;
+height: 50px;
+left: 705px;
+top: 4918px;
+
+/* Main Red */
+border: none;
+background: #D82930;
+border-radius: 5px;
+color: white;
+}
+
+
+.newsletter{
+
+}
+/* Footer section start */
+
+
+
